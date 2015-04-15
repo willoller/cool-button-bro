@@ -3,6 +3,8 @@
 It takes your callback(s), wraps them in promises using the $q library, 
 and then nicely disables and enables the button while changing the labels for you.
 
+[See a demo here: http://willoller.github.io/cool-button-bro/](http://willoller.github.io/cool-button-bro/ "Demo")
+
 Cool button, bro.
 
 -- 
